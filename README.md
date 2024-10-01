@@ -17,3 +17,7 @@ int main() {
 ```
 
 ### Заголовок поменяли
+
+
+
+![picture](image.png)
